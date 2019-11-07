@@ -106,14 +106,14 @@ echo "\033[33;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
 echo ""
 sleep 2
 sleep(1);
-echo "### masukan Nama Chanel anda : ";
+echo "masukan Nama Chanel anda : ";
 $Nama Chanel Anda= trim(fgets(STDIN));
 sleep(1);
-echo "### masukan url : ";
+echo "masukan url : ";
 $url chanel=  trim(fgets(STDIN));
 sleep(1);
 echo "\n\nRESULT :\n";
-gass($target, $jumlah);
+gass($Nama Chanel Anda, $Masukan Jumlah);
 echo "@root.mr.004"
 read p;
 echo "\033[31;1mSedang Menuju Proses..."
