@@ -90,187 +90,69 @@ echo '''\a
 \033[36;1m                             ___) |
 \033[36;1m                            |____/ '''
 sleep 1
-clear
-echo
-echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR    :  Mr.004  "$i"                  Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp  :  081228244243"$i"              Ôûê"
-echo $i"Ôûê"$pu"  GMAIL     :  Indrapati8@gmail.com"$i"   Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE   :  Gamer 4 LIve"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  rescindofficial"$i"               Ôûê"
-echo $pur"==================="$cy" ============================="
-echo
-echo $cy"MeNu Hack By Mr.004 :"
-echo $ku"["$me"1"$ku"]"$i" REPORT FB"
-echo $ku"["$me"2"$ku"]"$i" BRUTE PORCE"
-echo $ku"["$me"3"$ku"]"$i" BRUTE FORCE FB CRACKER"
-echo $ku"["$me"4"$ku"]"$i" MBF"
-echo $ku"["$me"5"$ku"]"$i" CLONING YAHOO"
-echo $ku"["$me"6"$ku"]"$i" OSIF"
-echo $ku"["$me"7"$ku"]"$i" PROFILEGUARD FB"
-echo $ku"["$me"8"$ku"]"$i" BOT REACTION FACEBOOK"
-echo $ku"["$me"9"$ku"]"$i" SPAM CALL"
-echo $ku"["$me"10"$ku"]"$i" SPAM WHATSHAPP"
-echo $ku"["$me"11"$ku"]"$i" YOUTUBE-DL"
-echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
-echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU"
-echo $i"["$me"14"$i"]"$ku" EXIT Dri Tols Gwe Asw Jangan Di Recode Babi"
-echo
-echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan"$pur"]"
-read -p"Ôò¦ÔöÇ>> " pil
-
-if [ $pil = 1 ]
-then
-clear
-figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/IlayTamvan/Report.git
-cd Report
-unzip Report.zip
-python2 Report.py
-fi
-
-if [ $pil = 2 ]
-then
-clear
-figlet -f slant "W A I T"|lolcat
+echo "\033[32;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
+figlet -f standard -F gay "Subscriber BOT BY MR 004"
+echo "\033[31;1m=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=
+echo ""
+echo "Author : " Mr.004 Feat Hat_12"
+" Youtube : " Gamer 4 LIve"
+echo " Kontak Me : " 081228244243"
+" Pesan : "Jangan Di Salah Gunakan Dan Disebar :) Karena Nanti Bisa Ketahuan Youtube"
 sleep 1
-git clone https://github.com/Senitopeng/fbbrute.git
-cd fbbrute
-python2 jomblo.py
-fi
-
-if [ $pil = 3 ]
-then
-clear
-figlet -f slant "W A I T"|lolcat
-sleep 1
-git clone https://github.com/FR13ND8/Fb-Cracker-v.3.git
-cd Fb-Cracker-v.3
-python2 crack.py
-fi
-
-if [ $pil = 4 ]
-then
-clear
-figlet -f slant "W A I T"|lolcat
-sleep 1
-git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
-cd multi-bruteforce-facebook
-python2 MBF.py
-fi
-
-if [ $pil = 5 ]
-then
-clear
-figlet -f slant "W A I T"|lolcat
-sleep 1
-git clone https://github.com/wahyuandhika/YahooCloning.git
-cd YahooCloning
-pip2 install requests mechanize
-pip2 install requirements
-python2 cloning.py
-fi
-
-if [ $pil = 6 ]
-then
-clear
-figlet -f slant "W A I T"|lolcat
-sleep 1
-git clone https://github.com/CiKu370/OSIF.git
-cd OSIF
-pip2 install -r requirements.txt
-python2 osif.py
-fi
-
-if [ $pil = 7 ]
-then
-clear
-figlet -f slant "W A I T"|lolcat
-sleep 1
-git clone https://github.com/jaxBCD/FBshield.git
-cd FBshield
-python2 guard.py
-fi
-
-if [ $pil = 8 ]
-then
-clear
-figlet -f slant "W A I T"|lolcat
-sleep 1
-git clone https://github.com/edi-nasa12/ROBOT.git
-cd ROBOT
-python2 blackbot.py
-fi
-
-if [ $pil = 9 ]
-then
-clear
-figlet -f slant "W A I T"|lolcat
-sleep 1
-git clone https://github.com/404rgr/spamerCALL
-cd spamerCALL
-python spamercall.py
-fi
-
-if [ $pil = 10 ]
-then
-clear
-figlet -f slant "W A I T"|lolcat
-sleep 1
-git clone https://github.com/4L13199/LITESPAM.git
-cd LITESPAM
-sh LITESPAM.sh
-fi
-
-if [ $pil = 11 ]
-then
-clear
-figlet -f slant "W A I T"|lolcat
-sleep 1
-git clone https://github.com/rahmadxyz/sub-bot.git
-cd sub-bot
-php sub-bot.php
-fi
-
-if [ $pil = 12 ]
-then
-clear
-figlet -f slant "W A I T"|lolcat
-sleep 1
-git clone https://github.com/thelinuxchoice/locator.git
-cd locator
-bash locator.sh
-fi
-
-if [ $pil = 13 ]
-then
-clear
-figlet -f slant "W A I T"|lolcat
-sleep 1
-git clone https://github.com/TERMUXID3/brutal-sms
-cd brutal-sms
-python2 run.py
-fi
-
-
-if [ $pil = 14 ]
-then
-clear
-figlet -f slant "W A I T"|Ulolcat
+echo "ThanksTo:"
+echo "Allah Swt"
+echo "\033[33;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
+echo ""
 sleep 2
-echo $cy"Terima Kasih sudah mengunakan Tools ini"
+sleep(1);
+echo "### masukan Nama Chanel anda : ";
+$Nama Chanel Anda= trim(fgets(STDIN));
+sleep(1);
+echo "### masukan url : ";
+$url chanel=  trim(fgets(STDIN));
+sleep(1);
+echo "\n\nRESULT :\n";
+gass($target, $jumlah);
+echo "@root.mr.004"
+read p;
+echo "\033[31;1mSedang Menuju Proses..."
+sleep 3
+echo "\033[37;1m█10%"
 sleep 2
-echo $i"Silahkan di pakai semoga bermanfaat Buat anda"
+echo "██20%"
+sleep 5
+echo "███30%"
+sleep 3
+echo "████40%"
+sleep 3
+echo "█████50%"
+sleep 3
+echo "██████60%"
+sleep 3
+echo "███████70%"
+sleep 4
+echo "████████80%"
+sleep 3
+echo "█████████90%"
+sleep 4
+echo "Bentar Mau Bisa Nih Asw"
+sleep 3
+clear
+
+echo "\033[33;1mMasukkan Nomer Anda Yang Benar...Contoh:0812xxxx untuk menghubungi anda jika ada kesalahan"
 sleep 2
-echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
+echo "Isi Dibawah!"
+read p;
+clear
+
+echo "\033[33;1mTunggulah Sekitar 30 Menit Untuk Mendapatkan Subscriber Masuk...."
+sleep 1
+echo "Jika  30 Menit Belum Ada Sms Masuk Berarti Chanel Kamu tidak Valid...!!"
 sleep 2
-echo $ku"Facebook :"$i" "
-echo $ku"YouTube  :"$i" "
-echo $ku"WhatsApp :"$i""
+echo "Thanks To: Allah Swt"
 sleep 2
-echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
-sleep 2
-echo $pur"SUBSCRIBE MY CHANNEL { YOUTUBE RMD }"
-exit
-fi
+echo "Pesan:Jangan Salahin Admin Ya Asw...Kalau Kebaned..."
+sleep 3
+
+
