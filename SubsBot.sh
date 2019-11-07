@@ -92,7 +92,7 @@ echo '''\a
 sleep 1
 sleep 1
 echo "\033[32;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
-figlet -f standard -F gay "Subscriber BOT BY MR 004"
+toilet -f standard -F gay "Subscriber BOT BY MR 004"
 echo "\033[31;1m=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=∆=
 echo ""
 echo "Author : " Mr.004 Feat Hat_12"
@@ -136,7 +136,7 @@ echo "████████80%"
 sleep 3
 echo "█████████90%"
 sleep 4
-echo "Bentar Mau Bisa Nih Asw"
+echo "Bentar Mau Bisa Nih Aswu"
 sleep 3
 clear
 
